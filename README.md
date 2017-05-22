@@ -8,6 +8,7 @@ Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 - [C](C.c), 30 bytes
 - [Elixir](Elixir.ex), 22 bytes
 - [Go](Go.go), 61 bytes
+- [Haskell](Haskell.hs), 26 bytes
 - [Java](Java.java), 79 bytes
     - Rename file to H.java to run.
 - [JavaScript](JavaScript.js), 28 bytes
