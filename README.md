@@ -20,6 +20,7 @@ Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 - [Python3](Python3.py), 22 bytes
 - [Ruby](Ruby.rb), 22 bytes
 - [Rust](Rust.rs), 37 bytes
+- [Swift](Swift.swift), 22 bytes
 
 ## Contributing
 To add another language, you must:
