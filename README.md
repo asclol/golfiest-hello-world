@@ -11,6 +11,7 @@ Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 - [Java](Java.java), 79 bytes
     - Rename file to H.java to run.
 - [JavaScript](JavaScript.js), 28 bytes
+- [Kotlin](Kotlin.kt), 49 bytes
 - [Lisp](Lisp.lisp), 22 bytes
 - [LOLCODE](LOLCODE.lol), 22 bytes
 - [Lua](Lua.lua), 20 bytes
