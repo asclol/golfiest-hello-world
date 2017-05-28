@@ -14,6 +14,7 @@ All files:
 - [Bash](Bash.sh), 18 bytes
 - [brainfuck](brainfuck.b), 78 bytes
 - [C](C.c), 30 bytes
+- [Clojure](Clojure.clj), 22 bytes
 - [Elixir](Elixir.ex), 22 bytes
 - [Go](Go.go), 61 bytes
 - [Groovy](Groovy.groovy), 20 bytes
