@@ -1,7 +1,15 @@
 # golfiest-hello-world
-Repository to compete with @kaliumxyz's. Because I'm just immature like that.
+
+Shortest programs to print "Hello, World!".
+
+All files:
+- print exactly "Hello, World!" with optional leading or trailing whitespace
+- are full programs.
+- print to STDOUT or the closest alternative
+- do not error
 
 ## Languages
+
 - [ArnoldC](ArnoldC.arnoldc), 71 bytes
 - [Bash](Bash.sh), 18 bytes
 - [BrainF*ck](BrainF*ck.b), 78 bytes
@@ -26,6 +34,8 @@ Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 - [Swift](Swift.swift), 22 bytes
 
 ## Contributing
+
 To add another language, you must:
-- Create the file with the name `<language-name>.<file-extension>`
-- Add an entry in [README.md](README.md) like so: `[<language name>](<file-name>), <byte-count> bytes` (notice the list is alphabetical)
+- follow the criteria above
+- create the file with the name `<language-name>.<file-extension>`
+- add an entry in [README.md](README.md) like so: `[<language name>](<file-name>), <byte-count> bytes` (notice the list is alphabetical)
