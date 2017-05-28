@@ -12,7 +12,7 @@ All files:
 
 - [ArnoldC](ArnoldC.arnoldc), 71 bytes
 - [Bash](Bash.sh), 18 bytes
-- [BrainF*ck](BrainF*ck.b), 78 bytes
+- [brainfuck](brainfuck.b), 78 bytes
 - [C](C.c), 30 bytes
 - [Elixir](Elixir.ex), 22 bytes
 - [Go](Go.go), 61 bytes
