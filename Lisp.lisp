@@ -1,1 +1,1 @@
-(print"Hello, World!")
+(princ"Hello, World!")
