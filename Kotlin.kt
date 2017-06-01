@@ -1,1 +1,1 @@
-fun main(a:Array<String>){print("Hello, World!")}
+fun main(a:Array<String>)=print("Hello, World!")
