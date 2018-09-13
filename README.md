@@ -11,8 +11,9 @@ All files:
 ## Languages
 
 - [ArnoldC](ArnoldC.arnoldc), 71 bytes
+- [AsciiDots](asciidots.dot), 19 bytes
 - [Bash](Bash.sh), 18 bytes
-- [brainfuck](brainfuck.b), 78 bytes
+- [brain[fudge]](brain[fudge].b), 78 bytes
 - [C](C.c), 30 bytes
 - [C#](C#.cs), 67 bytes
 - [C++](C++.cpp), 47 bytes
@@ -30,8 +31,10 @@ All files:
 - [LOLCODE](LOLCODE.lol), 22 bytes
 - [Lua](Lua.lua), 20 bytes
 - [Perl](Perl.pl), 20 bytes
+- [Pikalang](pikalang.pokeball), 524 bytes
 - [Python2](Python2.py), 20 bytes
 - [Python3](Python3.py), 22 bytes
+- [Rockstar](Rockstar.rock), 14 bytes
 - [Ruby](Ruby.rb), 22 bytes
 - [Rust](Rust.rs), 37 bytes
 - [Scala](Scala.sc), 22 bytes
