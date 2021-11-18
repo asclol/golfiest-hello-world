@@ -12,6 +12,7 @@ All files:
 
 - [ArnoldC](ArnoldC.arnoldc), 71 bytes
 - [AsciiDots](asciidots.dot), 19 bytes
+- [Assmebly](assembly.s), 122 bytes
 - [Bash](Bash.sh), 18 bytes
 - [brain[fudge]](brain[fudge].b), 78 bytes
 - [C](C.c), 30 bytes
